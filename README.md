@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Erick William 👍🏽
+<h1 align="center">Oi, eu sou o Erick William 👍🏽</h1>
 
 - 🔥 Desenvolvedor Front-end JR, estudando e me especializando **JavaScript, HTML, CSS, SQL, Node.JS, React**
 
