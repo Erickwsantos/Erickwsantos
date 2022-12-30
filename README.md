@@ -3,9 +3,7 @@
 - 🔥 Desenvolvedor Front-end JR, estudando e me especializando **JavaScript, HTML, CSS, SQL, Node.JS, React**
 
 - 👨‍💻 Atualmente em busca da uma oportunidade
-
-<br><br>
-
+<br>
 ## Contact
 
 <p align="left" style="background:yellow">
