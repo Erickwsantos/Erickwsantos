@@ -1,9 +1,9 @@
 <h1 align="center">Oi, eu sou o Erick William 👍🏽</h1>
 
-- 🔥 Desenvolvedor Front-end JR, estudando e me especializando **JavaScript, HTML, CSS, SQL, Node.JS, React**
+- 🔥 Desenvolvedor Front-end JR, estudando e me especializando **JavaScript, HTML, CSS, SQL, Node.JS, React**.
 
 - 👨‍💻 Atualmente em busca da uma oportunidade
-<br>
+
 ## Contact
 
 <p align="left" style="background:yellow">
@@ -16,11 +16,13 @@
 <a href="https://www.instagram.com/erickwillian49/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ErickWilliam-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+<a href="https://github.com/Erickwsantos" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-ErickWilliam-05122A?style=flat&logo=github" alt="github"/>
+</a>
 </p>
-##  Autor
 
-👤 **Erick**
+👤 **Erick-William**
 
 ##  Mostre seu apoio
 
-Dê um ⭐️ se esse projeto te ajudou!
+Dê um ⭐️ se esse projeto se te ajudou!
