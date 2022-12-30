@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo ao Read 4 me 👋 </h1>
+<h1 align="center">Oi, eu sou o Erick William 👍🏽
 
 - 🔥 Desenvolvedor Front-end JR, estudando e me especializando **JavaScript, HTML, CSS, SQL, Node.JS, React**
 
@@ -26,6 +26,3 @@
 ##  Mostre seu apoio
 
 Dê um ⭐️ se esse projeto te ajudou!
-
-***
-_Este README foi gerado com ❤️ _
