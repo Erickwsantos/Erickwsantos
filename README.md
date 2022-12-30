@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo ao Read 4 me 👋 <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /></h1>
+<h1 align="center">Bem-vindo ao Read 4 me 👋 </h1>
 
 - 🔥 Desenvolvedor Front-end JR, estudando e me especializando **JavaScript, HTML, CSS, SQL, Node.JS, React**
 
