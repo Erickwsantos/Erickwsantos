@@ -19,3 +19,13 @@
  <img align="center" src="https://img.shields.io/badge/-ErickWilliam-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+##  Autor
+
+👤 **Erick**
+
+##  Mostre seu apoio
+
+Dê um ⭐️ se esse projeto te ajudou!
+
+***
+_Este README foi gerado com ❤️ _
