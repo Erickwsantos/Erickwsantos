@@ -7,9 +7,6 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/Erick-Willian" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ErickWilliam-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://www.linkedin.com/in/erick-william-16ab4a238/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ErickWilliam-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -18,6 +15,9 @@
 </a>
 <a href="https://github.com/Erickwsantos" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ErickWilliam-05122A?style=flat&logo=github" alt="github"/>
+</a>
+  <a href="https://codepen.io/Erick-Willian" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ErickWilliam-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 </p>
 
