@@ -11,9 +11,6 @@
 <a href="https://www.instagram.com/erickwillian49/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ErickWilliam-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://codepen.io/Erick-Willian" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ErickWilliam-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 </p>
 
 👤 **Erick-William**
