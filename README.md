@@ -11,8 +11,10 @@ Sou Front-End Developer 👨‍💻
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
 ## Conecte-se comigo
+
 [![LinkedIn](https://img.shields.io/badge/ErickWilliam-000?-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/erick-william-16ab4a238/)
 [![Instagram](https://img.shields.io/badge/@erickwillian49-000?logo=instagram)](https://www.instagram.com/erickwillian49/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?-the-badge&logo=gmail)](mailto:erickwillian49@gmail.com)
 
 ## Habilidades
 
