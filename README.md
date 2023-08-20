@@ -1,6 +1,6 @@
 <h1 align="center">Oi, eu sou o Erick William 👍🏽</h1>
 
-- 🔥👨‍💻 Front-End Developer, estudando e me especializando ** | JavaScript | TypeScript | Angular**. 
+- 🔥👨‍💻 Front-End Developer, estudando e me especializando ** | JavaScript | TypeScript | Angular | **. 
 
 ## Contact
 
