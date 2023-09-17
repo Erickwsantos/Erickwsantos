@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img height="220em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
+  <img height="200em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/ErickWilliam-000?-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/erick-william-16ab4a238/)
