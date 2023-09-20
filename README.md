@@ -11,9 +11,9 @@
 <div align="center">
   <h5> Faço uma formação intensiva em Java+Angular pela <a href="https://web.dio.me/track/bf7abb82-1324-4074-9949-f474a1a911fe">DIO</a>;</h5> 
   <h5> Sou Desenvolvedor Front-End da  <a href="https://www.lekto.com.br/">Lekto<a/>; </h5>
-  <h5> Estou buscando sempre me aprefeiçoar em Java, .NET e Angular;</h5>
+  <h5> Estou buscando sempre me aprefeiçoar em .NET e Angular;</h5>
   <h5> Além disso, sou curioso e acredito que para evoluir é necessario passar por provações, pois só assim sera necessario dar seu 100%;</h5>
-  <h5> Onde busco a possibilidade de ser um desenvolvedor Full Stack, com foco em Java, .NET e Angular. </h5>
+  <h5> Onde busco a possibilidade de ser um desenvolvedor Full Stack, com foco em .NET e Angular. </h5>
 </div>
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Erickwsantos&theme=radical"/>
@@ -27,7 +27,5 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 </div>
